@@ -28,7 +28,7 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 ## Usage
 1. Run the application:
     ```bash
-    python main.py
+    python ytDownloaderByAhmed.py
     ```
 
 2. Enter a YouTube video URL in the input field.
