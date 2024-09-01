@@ -46,11 +46,11 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 5. Click the "Download" button to start downloading. The progress bar and percentage will update as the download proceeds.
 
 ## Screenshots
-![interface](https://github.com/user-attachments/assets/c4373493-5e36-438f-9567-9255f089e553)
 *Main Interface*
+![interface](https://github.com/user-attachments/assets/c4373493-5e36-438f-9567-9255f089e553)
 
-![Video Details](path_to_screenshot2.png)
-*Video Details Displayed*
+*Video for more details*
+https://youtu.be/nthU4VIoKK8
 
 ## Future Enhancements
 - Add support for downloading playlists.
