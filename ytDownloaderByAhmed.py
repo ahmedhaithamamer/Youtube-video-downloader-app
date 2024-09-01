@@ -1,7 +1,3 @@
-#I used chatgpt to help me know more about the libraries needed in my project,
-##also it helped me find a replacment for the PYtube library,
-## which didn't work with me and got replaced with yt_dlp library ##
-
 import tkinter
 import customtkinter
 import yt_dlp
@@ -101,8 +97,6 @@ my = customtkinter.CTk()
 my.geometry("720x487")
 my.title("YouTube Video Downloader")
 my.resizable(False, False)  # Disable resizing
-
-##Chatgpt was used for positioning, as I faced a problem with the positioning of the lower body of the program##
 
 # TITLE
 title = customtkinter.CTkLabel(my, text="YouTube Video Downloader \n by Ahmed Haitham")
