@@ -1,5 +1,5 @@
 # YouTube Video Downloader
-
+![interface](https://github.com/user-attachments/assets/c4373493-5e36-438f-9567-9255f089e553)
 ## Overview
 This is a Python-based YouTube video downloader with a user-friendly graphical interface built using `tkinter` and `customtkinter`. The application allows users to download videos in different qualities or as audio-only, displaying detailed video information before downloading.
 
@@ -54,14 +54,5 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 > 
 https://youtu.be/nthU4VIoKK8
 
-## Future Enhancements
-- Add support for downloading playlists.
-- Provide additional customization options for download formats.
-- Improve error handling and user feedback.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- **yt-dlp**: For providing a powerful tool to download videos from YouTube.
-- **CustomTkinter**: For offering an enhanced tkinter interface.
