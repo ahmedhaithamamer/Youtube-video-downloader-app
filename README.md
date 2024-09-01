@@ -1,3 +1,4 @@
+### Note: This project was made for educational purposes only
 # YouTube Video Downloader
 ![interface](https://github.com/user-attachments/assets/c4373493-5e36-438f-9567-9255f089e553)
 ## Overview
@@ -42,7 +43,7 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 
 5. Click the "Download" button to start downloading. The progress bar and percentage will update as the download proceeds.
 
-### Note: This project was made for educational purposes only
+
 
 
 
