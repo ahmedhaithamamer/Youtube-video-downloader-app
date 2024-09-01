@@ -42,6 +42,9 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 
 5. Click the "Download" button to start downloading. The progress bar and percentage will update as the download proceeds.
 
+## Note:
+This project was made for educational purposes only
+
 
 
 
