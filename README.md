@@ -20,7 +20,7 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 
 ## Installation
 
-1. Download py code
+1. Download code
 
 2. Install the required libraries:
 
