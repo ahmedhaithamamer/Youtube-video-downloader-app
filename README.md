@@ -20,16 +20,10 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/youtube-video-downloader.git
-    cd youtube-video-downloader
-    ```
+1. Download py code
 
 2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 1. Run the application:
