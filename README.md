@@ -1,23 +1,28 @@
-### Note: This project was made for educational purposes only
-# YouTube Video Downloader
+### ⚠️ Note: This project was made for educational purposes only
+
+# 🎥 YouTube Video Downloader
+
 ![interface](https://github.com/user-attachments/assets/c4373493-5e36-438f-9567-9255f089e553)
-## Overview
-This is a Python-based YouTube video downloader with a user-friendly graphical interface built using `tkinter` and `customtkinter`. The application allows users to download videos in different qualities or as audio-only, displaying detailed video information before downloading.
 
-## Features
-- **Video Information Fetching**: Automatically fetch and display video title, duration, uploader, and thumbnail from a YouTube link.
-- **Multiple Download Options**: Choose between Best Quality, Low Quality, or Audio Only formats for downloading.
-- **Download Progress Tracking**: Real-time progress bar and percentage display during the download process.
-- **Custom Download Location**: Select and specify the directory where the video will be saved.
-- **Error Handling**: Provides feedback and handles errors during the download process.
+## 🚀 Overview
+Python-based YouTube video downloader with a user-friendly GUI built using `tkinter` and `customtkinter`. Allows downloading videos in multiple qualities or audio-only format with detailed video info display.
 
-## Requirements
-- Python 3.6 or higher
-- `tkinter` (comes pre-installed with Python)
-- `customtkinter` (`pip install customtkinter`)
-- `yt-dlp` (`pip install yt-dlp`)
-- `Pillow` (`pip install Pillow`)
-- `requests` (`pip install requests`)
+## ✨ Features
+- 📋 **Video Info Fetching:** Automatically fetch video title, duration, uploader, and thumbnail.
+- 🎞️ **Multiple Download Options:** Best Quality, Low Quality, or Audio Only.
+- ⏳ **Progress Tracking:** Real-time progress bar and percentage display.
+- 📂 **Custom Download Location:** Choose where to save downloads.
+- ⚠️ **Error Handling:** Provides feedback on errors during download.
+
+## 🛠️ Requirements
+![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-included-green)
+![customtkinter](https://img.shields.io/badge/customtkinter-Python-blue)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-Python-yellowgreen)
+![Pillow](https://img.shields.io/badge/Pillow-Python-orange)
+![requests](https://img.shields.io/badge/requests-Python-red)
+
+## ⚙️ Installation
 
 ## Installation
 
@@ -44,9 +49,3 @@ This is a Python-based YouTube video downloader with a user-friendly graphical i
 5. Click the "Download" button to start downloading. The progress bar and percentage will update as the download proceeds.
 
 Copyright © 2024 Ahmed Haitham Amer
-
-
-
-
-
-
