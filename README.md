@@ -15,8 +15,8 @@ Python-based YouTube video downloader with a user-friendly GUI built using `tkin
 - ⚠️ **Error Handling:** Provides feedback on errors during download.
 
 ## 🛠️ Requirements
-[![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python&logoColor=white)](https://github.com/python)
-[![Tkinter](https://img.shields.io/badge/Tkinter-included-green)](https://github.com/python/cpython/tree/main/Lib/tkinter)
+[![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-included-green)](https://docs.python.org/3/library/tkinter.html)
 [![customtkinter](https://img.shields.io/badge/customtkinter-Python-blue)](https://github.com/TomSchimansky/CustomTkinter)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-Python-yellowgreen)](https://github.com/yt-dlp/yt-dlp)
 [![Pillow](https://img.shields.io/badge/Pillow-Python-orange)](https://github.com/python-pillow/Pillow)
